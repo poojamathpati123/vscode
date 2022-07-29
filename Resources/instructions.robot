@@ -27,6 +27,7 @@ User Should Search For Offer Zone
    Click Element  ${Bag3}
     Sleep  3s
    Click Link  ${Click}
+    Sleep  3s
    Scroll Element Into View  ${Notify}
    #Click Element  ${Bag3}
 #Scroll To The Bags
